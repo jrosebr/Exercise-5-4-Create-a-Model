@@ -1,6 +1,6 @@
 # Exercise 5.4—Create a Model
 
-Exercise for MSCH-C220
+Exercise for Jack Rosebrock
 
 This exercise is intended to provide a well-trod introduction to Blender 3.6 by introducing you to the first level of the classic donut tutorial by Blender Guru. You will need to set aside some time for this exercise, but you should emerge with a much better understanding of how Blender works and how to use it to create models.
 
